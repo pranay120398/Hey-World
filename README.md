@@ -1,1 +1,3 @@
 # Hey-World
+My nam is Pranay..
+I'm an undergraduate and interested in coding and problem solving, analysis and assessment under my capabilities and knowledge...
